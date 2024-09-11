@@ -26,6 +26,13 @@ CSS 부분은 HTML에서 사용하는 주요 요소들에 대한 설명을 하�
 
 <br>
 
+## 💡필수 프로그램
+Microsoft Visual Studio Code  
+Chrome Browser  
+Adobe Photoshop CC  
+
+<br>
+
 ## 💡실습용 예제 파일 & 소스 코드
 도서 실습에 필요한 예제 파일과 소스 코드는 챕터별로 구성하였으며, 깃허브 저장소뿐만 아니라 [영진닷컴 홈페이지](https://www.youngjin.com/reader/pds/pds.asp)에서도 다운로드받을 수 있습니다.  
 코드 작성 시에는 코드를 직접 입력하거나, 책에서 제공하는 소스 코드 파일을 사용하세요.
